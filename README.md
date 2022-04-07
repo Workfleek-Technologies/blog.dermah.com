@@ -29,6 +29,8 @@ cd blog.dermah.com
 git checkout master package.json lfs-server/
 ```
 
+Change The bucket name and Region specfic to your aws region on the Default.json , ont lfs-server/config folder
+
 Run the server in another terminal:
 
 ```bash
